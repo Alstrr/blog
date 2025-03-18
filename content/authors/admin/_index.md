@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: '1132246741@yandex.com'
+    url: '1132246741@pfur.ru'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Alstrr
@@ -99,7 +99,7 @@ skills:
       - name: Programming
         description: 'I am learning Python and C++'
         percent: 60
-        icon: keyboard
+        icon: 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
